@@ -32,7 +32,6 @@
   </p>
   <div align="left">
     <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&logo=C#&logoColor=white" alt="C#">
   </div>
   
   <p align="left">

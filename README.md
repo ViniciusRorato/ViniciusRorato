@@ -32,16 +32,17 @@
   </p>
   <div align="left">
     <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   </div>
   
   <p align="left">
     <strong>🛠️ Ferramentas</strong>
   </p>
   <div align="left">
-    <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows" alt="Windows">
-    <img src="https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </div>
 </div>
 <br />

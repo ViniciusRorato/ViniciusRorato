@@ -15,6 +15,8 @@
     </p>
     <div>
     <p align="left">
+      Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> 
+      <br>
       <a href="https://www.instagram.com/vini.rorato?igsh=a29sZzlrcHU2eXBl" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="vini.rorato" height="30" width="40" /></a>

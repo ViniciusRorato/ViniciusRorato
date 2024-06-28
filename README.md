@@ -44,3 +44,6 @@
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub">
   </div>
 </div>
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRorato&layout=compact&theme=dark&bg_color=0A0A0A" alt="Vinicius Rorato Top Languages"/>

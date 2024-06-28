@@ -7,8 +7,7 @@
   >
   <div>
     <h2>
-      <span><img src="https://imgur.com/YBRZguG.gif" width="23px" height="23px"></span>
-      Sobre mim
+    <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
     </h2>
     <p align="left">
       Desenvolvedor Junior.

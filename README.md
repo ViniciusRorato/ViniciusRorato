@@ -12,7 +12,6 @@
     </h2>
     <p align="left">
       Desenvolvedor Junior
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=edilandosaturnino" color="#2F6DB9" alt="Profile views" /> </p>
     </p>
     <div>
     <p align="left">

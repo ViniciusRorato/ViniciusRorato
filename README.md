@@ -31,7 +31,6 @@
   </p>
   <div align="left">
     <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <i class="devicon-csharp-line colored"></i>
   </div>
   
   <p align="left">

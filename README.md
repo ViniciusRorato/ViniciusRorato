@@ -25,6 +25,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
       <br />
+      <br />
       <strong>🌐 Frontend</strong>
     </p>
     <p align="left">
@@ -47,6 +48,7 @@
   </div>
   
   <p align="left">
+    <br />
     <strong>🛠️ Ferramentas</strong>
   </p>
   <div align="left">

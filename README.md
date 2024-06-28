@@ -11,10 +11,15 @@
       Sobre mim
     </h2>
     <p align="left">
-      Desenvolvedor FullStack especializado em Front-end e UI Design.
+      Desenvolvedor Junior.
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusRorato" color="#2F6DB9" alt="Profile views" /> </p>
     </p>
     <div>
+      <!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
     <p align="left">
       <strong>🌐 Frontend</strong>
     </p>

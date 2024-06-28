@@ -15,6 +15,14 @@
     </p>
     <div>
     <p align="left">
+      <a href="https://www.instagram.com/vini.rorato?igsh=a29sZzlrcHU2eXBl" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="vini.rorato" height="30" width="40" /></a>
+      <br />
+        <a href="https://www.linkedin.com/in/vinicius-rorato-ba1372291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+      <br />
       <strong>🌐 Frontend</strong>
     </p>
     <p align="left">

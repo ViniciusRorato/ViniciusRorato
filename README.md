@@ -62,4 +62,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusRorato&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ViniciusRorato" 
     bg_color=#808080/></p>
-
+    <p><img src="https://github-readme-stats.vercel.app/api?username=ViniciusRorato&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"</p>

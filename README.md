@@ -45,6 +45,7 @@
     <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript">
   </div>
   
   <p align="left">
